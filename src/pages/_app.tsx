@@ -6,7 +6,7 @@ import app from '../services/firebase';
 import '../styles/globals.css';
 
 export default function App({ Component, pageProps }: AppProps) {
-  const [value, loading, error] = useCollection(
+  const [_value, _loading, _error] = useCollection(
     collection(getFirestore(app), 'hooks'),
     {
       snapshotListenOptions: { includeMetadataChanges: true },
