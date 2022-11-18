@@ -1124,7 +1124,6 @@ __metadata:
     cz-conventional-changelog: 3.3.0
     eslint: 8.27.0
     eslint-config-next: 13.0.3
-    git-format-staged: ^3.0.0
     husky: ^8.0.0
     next: 13.0.3
     prettier: ^2.7.1
@@ -1745,15 +1744,6 @@ __metadata:
     call-bind: ^1.0.2
     get-intrinsic: ^1.1.1
   checksum: 9ceff8fe968f9270a37a1f73bf3f1f7bda69ca80f4f80850670e0e7b9444ff99323f7ac52f96567f8b5f5fbe7ac717a0d81d3407c7313e82810c6199446a5247
-  languageName: node
-  linkType: hard
-
-"git-format-staged@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "git-format-staged@npm:3.0.0"
-  bin:
-    git-format-staged: git-format-staged
-  checksum: 42aa4f716cccd54a52559496fdb63c3eb721b9dee48066433010bfa18b3f05066e3203de8d444c1ede812e99731fe6337f982b4cb95471a9910adc6c09db292a
   languageName: node
   linkType: hard
 
