@@ -36,8 +36,7 @@ yarn-error.log*
 next-env.d.ts
 
 .pnp.*
-.yarn
-!.yarn/cache
+.yarn/*
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
